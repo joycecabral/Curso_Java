@@ -1,3 +1,3 @@
 # Códigos Extracurriculares - Maratona JAVA ☕
-Repositório dedicado aos desafios de código JAVA que foram realizados em sala de aula.
+Repositório dedicado aos desafios de código JAVA e conteúdo realizado em sala de aula.
 
